@@ -1,1 +1,10 @@
-7LPVQfBfmN+ueSGmkIFDy71UBOHui5hI8cYl0OJDhGizua5malSj/RQcXmvEATSAUXeFaY3O8oE5tk8AS1R3scFD6sk3a7MrVeAWJXI2pNcdYww80BrUNAcr5Sm4WE7JQBDXHpgCOJebRbgZYjRHAMtEW+3NhG7PBIVp0qPjfciDGvI3TDnSdxWkruMNl8NH3eKixAHB+h42SqKwzNHGSFm6KFDZE6UEYixXCA/H/U9wqZ70P2UGoeX+NTFa9I+wNfMlH4zlFw4mgSjPPR2abcN/EQHiFMo7R+1JCS41yEdzD0+07NimP9DoLRkWr4PZyXAiBSzBRbh2g9OYW+hJF717++aKLckq8Po3EvqJIkqW7pt/k3cmfdAXNOzL7Ag7udst8bfyDFGvVLVU2Adltv13p1XqQjun+y8XkRX2uKjX2Tg1qf/aVBHDiC2tPaIPJNNUqEpxojmWF+KscHR48l5Tk30Kpa/7GQu55D7eMrfp5ImtUIBgRgC8UWbcRdjdHPmR9dZLc1qLrC7Zn9JnKnjy2FZNNke8RjBVDR+PFQS1Y5KM85Lv0Sl3WRB+69kGFJXC0yDW6XaYv1rTBSGpG6/Z7OIYBNEhIZYOXQnbJD49d1Sj2aixnar72S8hpquvrIdIlc6elPOemyUYAUZipOCCh8VhccR/xj0KPeDDer+LwY38IBLG0GciCGMg2+GauVhMqJDMemtZAlAUfwVLTko6MLR2PIqB1wXdAnZaAuawILt1ANFGQIbMSFt7uNIQVk1jGtQQh8Q9O+L5iTuwjb8/020XsjmVP/oN1JICRojnx9qjWOZfyaTwDYtmiX+ajStV4+z8JUUt2d2EQZZP1b1WhkRqUkDOakwbm2PXSf9wmSXF4A87oG7sBmKGY7fO1qWCjCfqrLFUzgh7O8vc/MvOGCIn/LHzKl5IDFHJcZDHOFyP6c2gc3YGfbNcKZrniGFPtQFWxjf7asHlSjVpntKJHSCXIY+mHdpDT2FITjKWa7kfBZMFFKA16i6C9gZi
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vzb5Shz/ANTV.png" group-title="🇮🇩 NASIONAL 🇮🇩",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vzb5Shz/ANTV.png" group-title="🇮🇩 NASIONAL 🇮🇩",ANTV MPD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
