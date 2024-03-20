@@ -1,10 +1,1 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vzb5Shz/ANTV.png" group-title="🇮🇩 NASIONAL 🇮🇩",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vzb5Shz/ANTV.png" group-title="🇮🇩 NASIONAL 🇮🇩",ANTV MPD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+O/7ac1V2nj9bwv0p4P1tVQpXudK3aBKYn4vG38hp3ktxWF3vSHSW473j44zsLPXHsW5fKvy874shwqDfA7sxaR1zmKsonkS7vdkJXh+P1tkjXbM4djjRsxA2zNxT6AsS3+8MPosR5uihoG+DhZhx/ZWAV6mhWvmoQxqPm+7htjuzvVoUo8X1L36C+bkFVvzJmYmja9KbR1kL/LsE4vEqLUEzqgDvPmOfmScjxFCbU0CTlwxrD/8ZlR+ZUKXjlxyhuOA/ASsdPFPNwAL4JtjwzL94rTEhdiMQrLT3FcGrwtq3gyqjxgexep17pHARltrSWSynE/ev7McUe3Lf+8lfZs2CL3RohCH8KHfJOt8qGR0iH+GP5RIOT6FBSOZVn/J3O4PjPa2HDRqjLAgHSM3OjZVi8643vo9AVR5NtLFhTk588nNX/4JIwRDbD5XjttQQkTXeK/0RI0HFPQRy3gTz0ryWxBo24uWBbk3Ibnr7EaT1vyPbOvnCSIUcPaZU1O+Tb2xvQivT3rxKEVuVs5hkl1TlCQ+CzGAP5Iwpl0VSFo2dW3mLqUenmwn3bXvE/zIS/WAL6i2nrJLxSwg1BNe5lrRyDFdzs8rnZYaSUCLR1CSKBxhvq+pOI2vKFb3z8G8n16Bpr7Vl8tgDMzxbW15WaBmwUi6ipnspYgIWoNx/9GF6L0liKoHVZraYnSgfPNwcBC+G1PNhNOuFYs/axF5abFIPuhXBraqGDjG1AkP9H/3eBrbRN8FI5bOMJ5yAP3pkxl3QW6QljcPuBLEHs69l+gm6c+p0n8nRySm88IXBZIb70aQx6Bkn0vXVbyhdpsjbKVxpaRfVPI5sKvlamu8dzQDdlFXHLD/QlJazlzhdGAW/eJdzTvSM58Cshykzwn/4L3Ma9w44iL8SMiEYmJXABtOsh6BoJWvbaHv645AWiLCtvreBAilZSk7exIh10PdCIaCw3nDOei1/H+G2wAoJxTZqVJpq5gBd1klK6am2IQA=
